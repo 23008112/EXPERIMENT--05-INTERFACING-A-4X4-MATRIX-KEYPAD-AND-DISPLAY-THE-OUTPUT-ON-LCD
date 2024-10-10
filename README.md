@@ -583,7 +583,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ![image](https://github.com/user-attachments/assets/475f0864-46ae-4e44-a22c-2b5f06133dca)
 
+![image](https://github.com/user-attachments/assets/209fd495-733e-4fdb-bb3e-1de4c9d5551f)
 
+![image](https://github.com/user-attachments/assets/3db3846b-463a-406e-a0aa-4ca8cf5fb2dd)
 
 
  
