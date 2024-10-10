@@ -587,11 +587,30 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ![image](https://github.com/user-attachments/assets/7329795e-1941-4424-831b-d75c8439d92c)
 
+![image](https://github.com/user-attachments/assets/874aa43c-0249-4632-bdb2-2086db14ef5d)
 
- 
- 
+![image](https://github.com/user-attachments/assets/1b601928-e185-4de4-bce4-2d79c6e6b3ff)
+
+![image](https://github.com/user-attachments/assets/ba8cfe57-69cb-4fe3-8989-6cae1dd7fb56)
+
+![image](https://github.com/user-attachments/assets/0ff2c4f6-61e4-4da0-9e85-e2fc33c0ca1e)
+
+![image](https://github.com/user-attachments/assets/598bf590-9c46-4662-b88c-8a568be95a80)
+
+![image](https://github.com/user-attachments/assets/a0e941c6-f2e8-4e39-b682-0e5f21cf9314)
+
+![image](https://github.com/user-attachments/assets/981719c6-7a56-40bc-9016-01316d05cd08)
+
+![image](https://github.com/user-attachments/assets/1a4cae02-7027-4ad1-8ee3-c7f62c680f31)
+
+![image](https://github.com/user-attachments/assets/719902b4-ae1b-4ad2-8b8b-9456fd1a41aa)
+
+![image](https://github.com/user-attachments/assets/7418e730-5988-40c4-bf80-987186339931)
+
+
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- 
+ ![image](https://github.com/user-attachments/assets/f3e02099-50a9-4b3b-bda0-e05144aae9db)
+
  
  
 ## Result :
